@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Project 1",
+        "image": "/images/white-robot.png",
+        "year": 2025,
+        "tags": ["Robotics", "AI"],
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dignissim ipsum nunc, nec fringilla turpis dictum a.",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dignissim ipsum nunc, nec fringilla turpis dictum a. Nam id sapien congue, egestas quam sollicitudin, congue nunc. Praesent nec arcu ut magna egestas commodo. Ut vel tincidunt magna, a fermentum nibh. Mauris varius velit in elit viverra pretium. Mauris aliquet purus arcu, at varius sapien cursus aliquet. Suspendisse facilisis, arcu vitae tristique elementum, magna dui lacinia dui, eu maximus nisl dui vel felis. Cras at scelerisque nulla. Integer vitae sollicitudin magna.",
+        "link": "https://github.com/"
+    },
+    {
+        "title": "Project 2",
+        "image": "/images/dark-night.png",
+        "year": 2024,
+        "tags": ["Psychology", "AI"],
+        "summary": "Nam id sapien congue, egestas quam sollicitudin, congue nunc. Praesent nec arcu ut magna egestas commodo.",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dignissim ipsum nunc, nec fringilla turpis dictum a. Nam id sapien congue, egestas quam sollicitudin, congue nunc. Praesent nec arcu ut magna egestas commodo. Ut vel tincidunt magna, a fermentum nibh. Mauris varius velit in elit viverra pretium.",
+        "link": "https://github.com/"
+    },
+    {
+        "title": "Project 3",
+        "image": "/images/black-starry-night.png",
+        "year": 2023,
+        "tags": ["Robotics", "Human-Robot Interaction"],
+        "summary": "Ut vel tincidunt magna, a fermentum nibh. Mauris varius velit in elit viverra pretium.",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dignissim ipsum nunc, nec fringilla turpis dictum a. Nam id sapien congue, egestas quam sollicitudin, congue nunc. Praesent nec arcu ut magna egestas commodo. Ut vel tincidunt magna, a fermentum nibh.",
+        "link": ""
+    },
+    {
+        "title": "Project 4",
+        "image": "/images/network-mesh.png",
+        "year": 2022,
+        "tags": ["AI", "Human-Robot Interaction"],
+        "summary": "Mauris aliquet purus arcu, at varius sapien cursus aliquet. Suspendisse facilisis, arcu vitae tristique.",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dignissim ipsum nunc, nec fringilla turpis dictum a. Nam id sapien congue, egestas quam sollicitudin, congue nunc. Praesent nec arcu ut magna egestas commodo. Ut vel tincidunt magna, a fermentum nibh. Mauris varius velit in elit viverra pretium. Mauris aliquet purus arcu, at varius sapien cursus aliquet.",
+        "link": "https://github.com/"
+    }
+]

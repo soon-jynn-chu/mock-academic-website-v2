@@ -1,0 +1,108 @@
+[
+    {
+        "courseNumber": "HIST 241",
+        "level": "Ugrad",
+        "title": "The Fall of Civilizations: A Study of the Walls",
+        "institute": "MIT",
+        "instructors": [
+            "Dr. Erwin Smith",
+            "Prof. Levi Ackerman"
+        ],
+        "teachingAssistants": [
+            "Hange Zoe",
+            "Jean Kirstein"
+        ],
+        "semesters": [
+            "Spring 2020",
+            "Fall 2023"
+        ],
+        "lastOfferedYear": 2025,
+        "lastOfferedMonth": 5,
+        "description": "An in-depth exploration of historical collapses and isolationist societies, with parallels to the rise and fall of the Walls in Paradis.",
+        "lectureNotesUrl": "https://example.com/notes/aot-hist241.pdf"
+    },
+    {
+        "courseNumber": "MAGC 300",
+        "level": "Grad",
+        "title": "Post-Magical Societies and Emotional Longevity",
+        "institute": "MIT",
+        "instructors": [
+            "Prof. Frieren",
+            "Prof. Himmel"
+        ],
+        "teachingAssistants": [
+            "Fern",
+            "Stark"
+        ],
+        "semesters": [
+            "Winter 2022"
+        ],
+        "lastOfferedYear": 2024,
+        "lastOfferedMonth": 12,
+        "description": "A graduate seminar on the emotional impact of immortality, grief, and the evolution of magical cultures in post-hero eras.",
+        "lectureNotesUrl": "https://example.com/notes/frieren-magc300.pdf"
+    },
+    {
+        "courseNumber": "CSLV 210",
+        "level": "Grad",
+        "title": "Solo Combat Systems and Skill Evolution",
+        "institute": "MIT",
+        "instructors": [
+            "Prof. Sung Jin-Woo"
+        ],
+        "teachingAssistants": [
+            "Igris",
+            "Beru"
+        ],
+        "semesters": [
+            "Fall 2021",
+            "Fall 2024"
+        ],
+        "lastOfferedYear": 2025,
+        "lastOfferedMonth": 9,
+        "description": "Analyzes leveling systems, dungeon mechanics, and individual growth through combat simulations and AI-modeled hunter dynamics.",
+        "lectureNotesUrl": "https://example.com/notes/solo-combat.pdf"
+    },
+    {
+        "courseNumber": "PHIL 180",
+        "level": "Ugrad",
+        "title": "The Ethics of Genocide and Monstrous Transformation",
+        "institute": "MIT",
+        "instructors": [
+            "Prof. Zeke Yeager"
+        ],
+        "teachingAssistants": [
+            "Pieck Finger",
+            "Porco Galliard"
+        ],
+        "semesters": [
+            "Spring 2023"
+        ],
+        "lastOfferedYear": 2025,
+        "lastOfferedMonth": 3,
+        "description": "Philosophical discussion on moral responsibility in war, biology-based discrimination, and the ethics of power-driven evolution.",
+        "lectureNotesUrl": "https://example.com/notes/titan-ethics.pdf"
+    },
+    {
+        "courseNumber": "ENCH 102",
+        "level": "Ugrad",
+        "title": "Foundations of Enchantment: Spellcasting for Non-Mages",
+        "institute": "MIT",
+        "instructors": [
+            "Prof. Stark",
+            "Prof. Sense"
+        ],
+        "teachingAssistants": [
+            "Serie",
+            "Aura"
+        ],
+        "semesters": [
+            "Summer 2021",
+            "Spring 2024"
+        ],
+        "lastOfferedYear": 2025,
+        "lastOfferedMonth": 6,
+        "description": "Introduction to magical theory for students without innate mana flow. Includes hands-on training using enchanted relics and formulaic casting.",
+        "lectureNotesUrl": "https://example.com/notes/enchanting-101.pdf"
+    }
+]

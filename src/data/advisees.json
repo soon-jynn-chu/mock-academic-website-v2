@@ -1,0 +1,302 @@
+[
+    {
+        "name": "Saitama",
+        "class": "visitor",
+        "classFull": "Student Visitor",
+        "major": "Kinetic Performance and Hero Studies",
+        "institution": "Z-City Hero Academy (Visiting Scholar Program)",
+        "description": "A low-profile yet overwhelmingly powerful individual seeking meaning in the pursuit of strength.",
+        "keywords": [
+            "physical training",
+            "existentialism",
+            "hero psychology"
+        ],
+        "projectInvolved": [
+            "Limits of Human Strength",
+            "Motivation and Burnout in High-Performance Individuals"
+        ],
+        "thesisTitle": "",
+        "advisingRole": "Mentor",
+        "graduated": false,
+        "startYear": "Fall 2014",
+        "endYear": "Spring 2018",
+        "currentRole": "Independent Hero and Visiting Scholar",
+        "email": "saitama@zheroacademy.edu",
+        "website": "ok-saitama.net",
+        "image": "/images/default-profile.svg",
+        "awards": [
+            "Z-City Peace Medal",
+            "Unmatched Physical Excellence Citation"
+        ]
+    },
+    {
+        "name": "Lelouch Lamperouge",
+        "class": "grad",
+        "classFull": "PhD Student",
+        "major": "Political Philosophy",
+        "institution": "Ashford Graduate School",
+        "description": "A charismatic strategist driven by a vision of justice and revolution.",
+        "keywords": [
+            "geopolitics",
+            "game theory",
+            "authoritarian regimes"
+        ],
+        "projectInvolved": [
+            "Zero Rebellion Theory",
+            "Revolutionary Leadership Models"
+        ],
+        "thesisTitle": "Masks and Power: The Dual Identity in Revolutionary Movements",
+        "advisingRole": "Main Advisor",
+        "graduated": true,
+        "startYear": "Fall 2010",
+        "endYear": "Spring 2014",
+        "currentRole": "Doctoral Candidate",
+        "email": "l.lamperouge@ashford.edu",
+        "website": "lelouch-zero.net",
+        "image": "/images/logo.png",
+        "awards": [
+            "Ashford Fellowship for Strategic Excellence",
+            "Zero Foundation Award for Political Innovation"
+        ]
+    },
+    {
+        "name": "Light Yagami",
+        "class": "ugrad",
+        "classFull": "Undergraduate Student",
+        "major": "Criminal Justice",
+        "institution": "To-Oh University",
+        "description": "Top of his class with a strong sense of justice... and something darker.",
+        "keywords": [
+            "morality",
+            "justice systems",
+            "criminology"
+        ],
+        "projectInvolved": [
+            "Deterrence and Capital Punishment",
+            "Psychology of Power"
+        ],
+        "thesisTitle": "",
+        "advisingRole": "Committee Member",
+        "graduated": false,
+        "startYear": "Spring 2003",
+        "endYear": "Spring 2007",
+        "currentRole": "Legal Theory Intern",
+        "email": "light.yagami@to-oh.edu",
+        "website": "kira-justice.jp",
+        "image": "/images/default-profile.svg",
+        "awards": [
+            "Top Student Award - To-Oh University",
+            "Ethics Essay Prize"
+        ]
+    },
+    {
+        "name": "Naruto Uzumaki",
+        "class": "ugrad",
+        "classFull": "Undergraduate Student",
+        "major": "Diplomacy and Peace Studies",
+        "institution": "Konoha Academy of Leadership",
+        "description": "Believes in connecting people and achieving peace through understanding.",
+        "keywords": [
+            "conflict resolution",
+            "youth leadership",
+            "peacebuilding"
+        ],
+        "projectInvolved": [
+            "Post-War Reconciliation",
+            "Hidden Village Diplomacy"
+        ],
+        "thesisTitle": "",
+        "advisingRole": "Mentor",
+        "graduated": false,
+        "startYear": "Fall 2001",
+        "endYear": "Spring 2005",
+        "currentRole": "Junior Diplomatic Envoy",
+        "email": "naruto.u@konoha.edu",
+        "website": "uzumaki-path.org",
+        "image": "/images/default-profile.svg",
+        "awards": [
+            "Konoha Youth Peacebuilder Award",
+            "Shadow Leader Commendation"
+        ]
+    },
+    {
+        "name": "Mikasa Ackerman",
+        "class": "grad",
+        "classFull": "MS Student",
+        "major": "Security Studies",
+        "institution": "Paradise University",
+        "description": "Disciplined, loyal, and one of the most capable in the field of human security.",
+        "keywords": [
+            "counterinsurgency",
+            "homeland defense",
+            "tactical response"
+        ],
+        "projectInvolved": [
+            "Urban Defense Mechanisms",
+            "Protective Operations Analysis"
+        ],
+        "thesisTitle": "Shielding the Vulnerable: Rapid Response in Urban Warfare",
+        "advisingRole": "Co-Advisor",
+        "graduated": false,
+        "startYear": "Fall 846",
+        "endYear": "Spring 850",
+        "currentRole": "Security Analyst Intern",
+        "email": "mikasa.ackerman@paradis.edu",
+        "website": "ackerman-defense.net",
+        "image": "/images/default-profile.svg",
+        "awards": [
+            "Top Combat Scholar Award",
+            "Field Operations Excellence Grant"
+        ]
+    },
+    {
+        "name": "Killua Zoldyck",
+        "class": "ugrad",
+        "classFull": "Undergraduate Student",
+        "major": "Psychology",
+        "institution": "Zoldyck Institute of Behavioral Science",
+        "description": "Exploring the boundaries between nature, nurture, and freedom of choice.",
+        "keywords": [
+            "child development",
+            "resilience",
+            "moral psychology"
+        ],
+        "projectInvolved": [
+            "Combat Trauma in Adolescents",
+            "Trust-Building Through Adversity"
+        ],
+        "thesisTitle": "",
+        "advisingRole": "Mentor",
+        "graduated": false,
+        "startYear": "Fall 2006",
+        "endYear": "Spring 2010",
+        "currentRole": "Research Trainee",
+        "email": "killua.z@zibs.edu",
+        "website": "zoldyck-behavior.org",
+        "image": "/images/default-profile.svg",
+        "awards": [
+            "Youth Research Initiative Scholarship",
+            "Breakthrough in Trauma Analysis"
+        ]
+    },
+    {
+        "name": "Rintarou Okabe",
+        "class": "postdoc",
+        "classFull": "Postdoctorate Student",
+        "major": "Temporal Physics",
+        "institution": "Future Gadget Laboratory",
+        "description": "Mad scientist with a passion for time and causality.",
+        "keywords": [
+            "time travel",
+            "quantum theory",
+            "paradox resolution"
+        ],
+        "projectInvolved": [
+            "Causality Disruption Modelling",
+            "Microwave-Induced Time Shifts"
+        ],
+        "thesisTitle": "Chronolinear Theory: Understanding Divergence in Time Realms",
+        "advisingRole": "Main Advisor",
+        "graduated": true,
+        "startYear": "Fall 2012",
+        "endYear": "Spring 2017",
+        "currentRole": "Independent Postdoc Researcher",
+        "email": "r.okabe@fglab.org",
+        "website": "hououin-kyouma.net",
+        "image": "/images/default-profile.svg",
+        "awards": [
+            "Akihabara Science Prize",
+            "Temporal Physics Frontier Medal"
+        ]
+    },
+    {
+        "name": "Satoru Gojo",
+        "class": "visitor",
+        "classFull": "Student Visitor",
+        "major": "Supernatural Conflict Mediation",
+        "institution": "Tokyo Jujutsu University",
+        "description": "An elite-level talent in conflict management involving curses and anomalies.",
+        "keywords": [
+            "power dynamics",
+            "spiritual energy",
+            "crisis containment"
+        ],
+        "projectInvolved": [
+            "Cursed Object Containment Protocols",
+            "High-Risk Negotiation Training"
+        ],
+        "thesisTitle": "",
+        "advisingRole": "Committee Member",
+        "graduated": false,
+        "startYear": "Fall 2017",
+        "endYear": "Spring 2021",
+        "currentRole": "Exchange Scholar",
+        "email": "s.gojo@jujutsu.edu",
+        "website": "limitlessdomain.jp",
+        "image": "/images/default-profile.svg",
+        "awards": [
+            "Supreme Power Management Award",
+            "Elite Conflict Mediator Honor"
+        ]
+    },
+    {
+        "name": "Shouko Nishimiya",
+        "class": "ugrad",
+        "classFull": "Undergraduate Student",
+        "major": "Communication Disorders",
+        "institution": "Kyoto Center for Inclusive Studies",
+        "description": "Dedicated to bridging communication gaps and advocating for empathy.",
+        "keywords": [
+            "sign language",
+            "inclusive education",
+            "bullying prevention"
+        ],
+        "projectInvolved": [
+            "Nonverbal Communication Outreach",
+            "Peer Sensitivity Workshops"
+        ],
+        "thesisTitle": "",
+        "advisingRole": "Mentor",
+        "graduated": false,
+        "startYear": "Fall 2015",
+        "endYear": "Spring 2019",
+        "currentRole": "Outreach Assistant",
+        "email": "shouko.n@kyotoinclusive.edu",
+        "website": "shouko-speaks.org",
+        "image": "/images/default-profile.svg",
+        "awards": [
+            "Inclusion Advocate Award",
+            "Silent Voice Ambassador Grant"
+        ]
+    },
+    {
+        "name": "Gintoki Sakata",
+        "class": "grad",
+        "classFull": "MS Student",
+        "major": "Cultural Studies",
+        "institution": "Edo Historical Institute",
+        "description": "Unconventional scholar interested in social satire, humor, and historical reinterpretation.",
+        "keywords": [
+            "irony",
+            "samurai ethics",
+            "modern alienation"
+        ],
+        "projectInvolved": [
+            "Post-Edo Narrative Analysis",
+            "Satirical Resistance in Literature"
+        ],
+        "thesisTitle": "Jokes and Swords: Subverting Power through Humor",
+        "advisingRole": "Co-Advisor",
+        "graduated": false,
+        "startYear": "Fall 2008",
+        "endYear": "Spring 2012",
+        "currentRole": "Graduate Researcher",
+        "email": "gintoki.s@edoinst.edu",
+        "website": "yorozuya-academic.jp",
+        "image": "/images/default-profile.svg",
+        "awards": [
+            "Satirical Excellence Award",
+            "Samurai Literature Fellowship"
+        ]
+    }
+]

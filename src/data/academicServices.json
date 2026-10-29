@@ -1,0 +1,72 @@
+[
+    {
+        "organization": "International Conference on AI in Anime",
+        "role": "Peer Reviewer",
+        "location": "Los Angeles, USA",
+        "year": 2024,
+        "month": 6
+    },
+    {
+        "organization": "Jujutsu Kaisen Research Symposium",
+        "role": "Program Committee",
+        "location": "Tokyo, Japan",
+        "year": 2024,
+        "month": 5
+    },
+    {
+        "organization": "Anime Studies Global Summit",
+        "role": "Panel Chair",
+        "location": "Paris, France",
+        "year": 2024,
+        "month": 4
+    },
+    {
+        "organization": "Demon Slayer Cultural Research Panel",
+        "role": "Session Organizer",
+        "location": "Kyoto, Japan",
+        "year": 2023,
+        "month": 12
+    },
+    {
+        "organization": "Cyberpunk Narratives and Technology Conference",
+        "role": "Reviewer",
+        "location": "Berlin, Germany",
+        "year": 2023,
+        "month": 11
+    },
+    {
+        "organization": "Beastars Society Symposium",
+        "role": "Peer Reviewer",
+        "location": "London, UK",
+        "year": 2023,
+        "month": 10
+    },
+    {
+        "organization": "Anime and Philosophy Journal",
+        "role": "Editorial Board Member",
+        "location": "Remote (Online)",
+        "year": 2024,
+        "month": 3
+    },
+    {
+        "organization": "Vinland Saga Historical Research Conference",
+        "role": "Program Committee",
+        "location": "Oslo, Norway",
+        "year": 2024,
+        "month": 2
+    },
+    {
+        "organization": "Spy x Family International Forum",
+        "role": "Session Chair",
+        "location": "New York City, USA",
+        "year": 2024,
+        "month": 1
+    },
+    {
+        "organization": "Chainsaw Man Global Fan Conference",
+        "role": "Panelist",
+        "location": "Toronto, Canada",
+        "year": 2023,
+        "month": 12
+    }
+]

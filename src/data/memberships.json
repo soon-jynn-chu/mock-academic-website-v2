@@ -1,0 +1,75 @@
+[
+    {
+        "title": "Premium Member",
+        "organization": "Shibuya Cybernetics Society",
+        "yearsActive": [
+            "Mar 2020 - Dec 2021",
+            "Jan 2023 - Present"
+        ],
+        "lastActiveYear": 2024,
+        "lastActiveMonth": 5
+    },
+    {
+        "title": "Founding Member",
+        "organization": "Jujutsu Kaisen Research Group",
+        "yearsActive": [
+            "Jan 2021 - Dec 2022"
+        ],
+        "lastActiveYear": 2022,
+        "lastActiveMonth": 12
+    },
+    {
+        "title": "Member",
+        "organization": "Tokyo Revengers Support Network",
+        "yearsActive": [
+            "Feb 2022 - Present"
+        ],
+        "lastActiveYear": 2024,
+        "lastActiveMonth": 6
+    },
+    {
+        "title": "Premium Member",
+        "organization": "Beastars Animal Rights Collective",
+        "yearsActive": [
+            "Nov 2020 - Present"
+        ],
+        "lastActiveYear": 2024,
+        "lastActiveMonth": 4
+    },
+    {
+        "title": "Premium Member",
+        "organization": "Vinland Saga Viking Preservation Society",
+        "yearsActive": [
+            "Apr 2021 - Aug 2023"
+        ],
+        "lastActiveYear": 2023,
+        "lastActiveMonth": 8
+    },
+    {
+        "title": "Honorary Member",
+        "organization": "Demon Slayer Compassion Initiative",
+        "yearsActive": [
+            "Jan 2022 - Dec 2022"
+        ],
+        "lastActiveYear": 2022,
+        "lastActiveMonth": 12
+    },
+    {
+        "title": "Member",
+        "organization": "Spy x Family Family Network",
+        "yearsActive": [
+            "Jun 2023 - Present"
+        ],
+        "lastActiveYear": 2024,
+        "lastActiveMonth": 6
+    },
+    {
+        "title": "Founding Member",
+        "organization": "Chainsaw Man Fan Club",
+        "yearsActive": [
+            "Dec 2020 - Present"
+        ],
+        "lastActiveYear": 2024,
+        "lastActiveMonth": 5
+    }
+]

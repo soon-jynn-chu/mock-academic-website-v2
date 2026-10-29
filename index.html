@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>John Doe | AI, Robotics &amp; Psychology Researcher</title>
+		<meta
+			name="description"
+			content="Personal academic website of John Doe: research in AI, robotics and psychology, publications, projects, teaching and mentorship."
+		/>
+		<meta name="theme-color" content="#070b14" />
+
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="John Doe | AI, Robotics & Psychology Researcher" />
+		<meta
+			property="og:description"
+			content="Research in AI, robotics and psychology. Publications, projects, teaching and mentorship."
+		/>
+		<meta property="og:image" content="/images/logo.png" />
+		<meta name="twitter:card" content="summary" />
+
+		<link rel="icon" href="/images/logo.svg" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Orbitron:wght@500;600;700;800&display=swap"
+			rel="stylesheet"
+		/>
+
+		<!-- Apply the saved (or system) theme before first paint to avoid a flash -->
+		<script>
+			(function () {
+				try {
+					var saved = localStorage.getItem("theme");
+					var theme =
+						saved ||
+						(window.matchMedia("(prefers-color-scheme: light)").matches
+							? "light"
+							: "dark");
+					document.documentElement.setAttribute("data-theme", theme);
+				} catch (e) {}
+			})();
+		</script>
+	</head>
+	<body>
+		<div id="root"></div>
+		<script type="module" src="/src/main.jsx"></script>
+	</body>
+</html>

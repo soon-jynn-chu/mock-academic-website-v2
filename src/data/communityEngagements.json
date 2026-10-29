@@ -1,0 +1,128 @@
+[
+    {
+        "title": "Shibuya Disaster Relief Initiative",
+        "organization": "Shibuya Hope Foundation",
+        "location": "Shibuya, Tokyo, Japan",
+        "years": [
+            2023,
+            2024
+        ],
+        "description": "Inspired by the events of *Jujutsu Kaisen*, this initiative helps victims of natural disasters in Shibuya, providing shelter, food, and mental health resources.",
+        "url": "https://shibuyahope.org",
+        "lastengagedyear": 2024,
+        "lastengagedmonth": 4
+    },
+    {
+        "title": "Voices of the Void - Mental Health Awareness",
+        "organization": "Neon Lights Initiative",
+        "location": "Los Angeles, USA",
+        "years": [
+            2024
+        ],
+        "description": "Inspired by the themes of existentialism in *The Eminence in Shadow*, this initiative provides mental health resources for people feeling disconnected or misunderstood.",
+        "url": "https://neonlights.org/voicesofthevoid",
+        "lastengagedyear": 2024,
+        "lastengagedmonth": 3
+    },
+    {
+        "title": "Tokyo Helping Hands - Homeless Outreach",
+        "organization": "Tokyo Community Outreach",
+        "location": "Tokyo, Japan",
+        "years": [
+            2022,
+            2023,
+            2024
+        ],
+        "description": "Inspired by *Demon Slayer*'s messages of compassion, this outreach program supports Tokyo's homeless by providing food, medical aid, and emotional support.",
+        "url": "https://tokyohelpinghands.org",
+        "lastengagedyear": 2024,
+        "lastengagedmonth": 5
+    },
+    {
+        "title": "Game Changer Charity Tournament",
+        "organization": "Gamers Unite for Good",
+        "location": "Online (Global)",
+        "years": [
+            2024
+        ],
+        "description": "A charity esports tournament inspired by the competitive spirit in *Attack on Titan*, with all proceeds supporting mental health recovery and trauma healing for young adults.",
+        "url": "https://gamersunite.org/tournament",
+        "lastengagedyear": 2024,
+        "lastengagedmonth": 6
+    },
+    {
+        "title": "Green Tides Environmental Action",
+        "organization": "Eco-Crusaders",
+        "location": "Kyoto, Japan",
+        "years": [
+            2023,
+            2024
+        ],
+        "description": "This initiative draws from the environmental themes in *Beastars*, promoting urban sustainability, wildlife preservation, and eco-friendly living through city-wide cleanups and reforestation projects.",
+        "url": "https://ecocrusaders.org/greentides",
+        "lastengagedyear": 2024,
+        "lastengagedmonth": 4
+    },
+    {
+        "title": "Otaku Blood Drive",
+        "organization": "Anime for Life",
+        "location": "New York City, USA",
+        "years": [
+            2024
+        ],
+        "description": "Inspired by the loyalty themes in *Tokyo Revengers*, this blood drive encourages anime fans to donate blood to save lives during critical shortages.",
+        "url": "https://animeforlife.org/otakublooddrive",
+        "lastengagedyear": 2024,
+        "lastengagedmonth": 5
+    },
+    {
+        "title": "Lunar Gardens for the Future",
+        "organization": "Futurist Gardeners Collective",
+        "location": "Osaka, Japan",
+        "years": [
+            2023,
+            2024
+        ],
+        "description": "Inspired by the cyberpunk landscapes in *Cyberpunk: Edgerunners*, this initiative encourages sustainable urban agriculture and the creation of green spaces in high-density cities.",
+        "url": "https://futuristgardens.org/lunargardens",
+        "lastengagedyear": 2024,
+        "lastengagedmonth": 6
+    },
+    {
+        "title": "Support for the Forgotten: Shelter for the Vulnerable",
+        "organization": "Hope for All",
+        "location": "Paris, France",
+        "years": [
+            2023
+        ],
+        "description": "Influenced by *Vinland Saga*, this program provides support for refugees and displaced people, offering temporary housing, food, and resources for rebuilding their lives.",
+        "url": "https://hopeforall.org/forgotten",
+        "lastengagedyear": 2023,
+        "lastengagedmonth": 9
+    },
+    {
+        "title": "The Blooming Spirit Volunteer Program",
+        "organization": "Sunshine Collective",
+        "location": "Seoul, South Korea",
+        "years": [
+            2024
+        ],
+        "description": "Inspired by *Ranking of Kings*, this volunteer program helps children with disabilities and their families by providing physical therapy, educational resources, and emotional support.",
+        "url": "https://sunshinecollective.org/bloomingspirit",
+        "lastengagedyear": 2024,
+        "lastengagedmonth": 5
+    },
+    {
+        "title": "New Horizons Youth Mentorship",
+        "organization": "Future Leaders Foundation",
+        "location": "London, UK",
+        "years": [
+            2023,
+            2024
+        ],
+        "description": "Inspired by *Spy x Family*, this mentorship program pairs young people with role models to help guide them through education, career development, and personal growth.",
+        "url": "https://futureleaders.org/newhorizons",
+        "lastengagedyear": 2024,
+        "lastengagedmonth": 4
+    }
+]

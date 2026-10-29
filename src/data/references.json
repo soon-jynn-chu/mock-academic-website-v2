@@ -1,0 +1,433 @@
+[
+    {
+        "id": "ackerman2018masters",
+        "author": [
+            {
+                "family": "Doe",
+                "given": "John"
+            }
+        ],
+        "citation-key": "ackerman2018masters",
+        "event-place": "Shiganshina District",
+        "genre": "master",
+        "issued": {
+            "date-parts": [
+                [
+                    "2018"
+                ]
+            ]
+        },
+        "publisher": "Survey Corps Institute of Technology",
+        "publisher-place": "Shiganshina District",
+        "title": "Defense mechanisms and wall security strategies",
+        "type": "thesis"
+    },
+    {
+        "id": "akemi2023timeloops",
+        "author": [
+            {
+                "family": "Doe",
+                "given": "John"
+            },
+            {
+                "family": "Akemi",
+                "given": "Homura"
+            }
+        ],
+        "citation-key": "akemi2023timeloops",
+        "container-title": "Workshop on quantum time systems",
+        "event-place": "Mitakihara University",
+        "issued": {
+            "date-parts": [
+                [
+                    "2023"
+                ]
+            ]
+        },
+        "page": "34–47",
+        "publisher-place": "Mitakihara University",
+        "title": "Time loops in probabilistic temporal models",
+        "type": "paper-conference"
+    },
+    {
+        "id": "ayanami2021report",
+        "author": [
+            {
+                "family": "Doe",
+                "given": "John"
+            },
+            {
+                "family": "Ayanami",
+                "given": "Rei"
+            }
+        ],
+        "citation-key": "ayanami2021report",
+        "issued": {
+            "date-parts": [
+                [
+                    "2021"
+                ]
+            ]
+        },
+        "title": "Evangelion sync ratio report",
+        "type": "document"
+    },
+    {
+        "id": "briefs2020manual",
+        "author": [
+            {
+                "family": "Doe",
+                "given": "John"
+            },
+            {
+                "family": "Briefs",
+                "given": "Bulma"
+            }
+        ],
+        "citation-key": "briefs2020manual",
+        "issued": {
+            "date-parts": [
+                [
+                    "2020"
+                ]
+            ]
+        },
+        "title": "Capsule corp engineering manual",
+        "type": "document"
+    },
+    {
+        "id": "elric2021alchemy",
+        "author": [
+            {
+                "family": "Doe",
+                "given": "John"
+            },
+            {
+                "family": "Elric",
+                "given": "Edward"
+            }
+        ],
+        "citation-key": "elric2021alchemy",
+        "container-title": "Journal of Alchemical Research",
+        "issue": "3",
+        "issued": {
+            "date-parts": [
+                [
+                    "2021"
+                ]
+            ]
+        },
+        "page": "123–135",
+        "title": "Equivalent exchange and modern chemistry: a comparative review",
+        "type": "article-journal",
+        "volume": "45"
+    },
+    {
+        "id": "ikari2020phd",
+        "author": [
+            {
+                "family": "Doe",
+                "given": "John"
+            }
+        ],
+        "citation-key": "ikari2020phd",
+        "event-place": "Tokyo-3",
+        "genre": "phd",
+        "issued": {
+            "date-parts": [
+                [
+                    "2020"
+                ]
+            ]
+        },
+        "publisher": "NERV University",
+        "publisher-place": "Tokyo-3",
+        "title": "Instrumentality and human consciousness: a theoretical approach",
+        "type": "thesis"
+    },
+    {
+        "id": "ketchum2022pokeai",
+        "author": [
+            {
+                "family": "Doe",
+                "given": "John"
+            },
+            {
+                "family": "Ketchum",
+                "given": "Ash"
+            }
+        ],
+        "citation-key": "ketchum2022pokeai",
+        "container-title": "IEEE symposium on smart devices and companion technologies",
+        "event-place": "Pallet Town",
+        "issued": {
+            "date-parts": [
+                [
+                    "2022"
+                ]
+            ]
+        },
+        "page": "120–132",
+        "publisher-place": "Pallet Town",
+        "title": "Distributed AI in pokéball ecosystems",
+        "type": "paper-conference"
+    },
+    {
+        "id": "kurosaki2019spirits",
+        "author": [
+            {
+                "family": "Doe",
+                "given": "John"
+            },
+            {
+                "family": "Kurosaki",
+                "given": "Ichigo"
+            }
+        ],
+        "citation-key": "kurosaki2019spirits",
+        "container-title": "Soul Society Science Quarterly",
+        "issue": "4",
+        "issued": {
+            "date-parts": [
+                [
+                    "2019"
+                ]
+            ]
+        },
+        "page": "88–102",
+        "title": "Hollow theories in spirit ecology",
+        "type": "article-journal",
+        "volume": "12"
+    },
+    {
+        "id": "lamperouge2021geass",
+        "author": [
+            {
+                "family": "Doe",
+                "given": "John"
+            },
+            {
+                "family": "Lamperouge",
+                "given": "Lelouch"
+            }
+        ],
+        "citation-key": "lamperouge2021geass",
+        "container-title": "Conference on mind-controlled interfaces",
+        "event-place": "Ashford Academy",
+        "issued": {
+            "date-parts": [
+                [
+                    "2021"
+                ]
+            ]
+        },
+        "page": "75–88",
+        "publisher-place": "Ashford Academy",
+        "title": "Geass-like control systems in neurointerface design",
+        "type": "paper-conference"
+    },
+    {
+        "id": "luffy2022pirates",
+        "author": [
+            {
+                "family": "Doe",
+                "given": "John"
+            },
+            {
+                "family": "Luffy",
+                "given": "Monkey D"
+            }
+        ],
+        "citation-key": "luffy2022pirates",
+        "container-title": "Journal of Maritime Adventures",
+        "issue": "2",
+        "issued": {
+            "date-parts": [
+                [
+                    "2022"
+                ]
+            ]
+        },
+        "page": "200–215",
+        "title": "Navigating the grand line: Log poses and magnetic fields",
+        "type": "article-journal",
+        "volume": "7"
+    },
+    {
+        "id": "ray2024newtypes",
+        "author": [
+            {
+                "family": "Doe",
+                "given": "John"
+            },
+            {
+                "family": "Ray",
+                "given": "Amuro"
+            }
+        ],
+        "citation-key": "ray2024newtypes",
+        "container-title": "Federation Journal of Mobile Suit Technologies",
+        "issue": "5",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        },
+        "page": "300–317",
+        "title": "Newtypes and the evolution of combat AI",
+        "type": "article-journal",
+        "volume": "29"
+    },
+    {
+        "id": "rem2023whitepaper",
+        "author": [
+            {
+                "family": "Doe",
+                "given": "John"
+            },
+            {
+                "family": "Rem",
+                "given": "Mathers"
+            }
+        ],
+        "citation-key": "rem2023whitepaper",
+        "issued": {
+            "date-parts": [
+                [
+                    "2023"
+                ]
+            ]
+        },
+        "title": "AI in fantasy realms: Challenges and opportunities",
+        "type": "document"
+    },
+    {
+        "id": "saitama2024training",
+        "author": [
+            {
+                "family": "Doe",
+                "given": "John"
+            },
+            {
+                "family": "Saitama",
+                "given": "Saitama"
+            }
+        ],
+        "citation-key": "saitama2024training",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        },
+        "title": "One-punch efficiency: Training regimen summary",
+        "type": "document"
+    },
+    {
+        "id": "todoroki2022dataset",
+        "author": [
+            {
+                "family": "Doe",
+                "given": "John"
+            },
+            {
+                "family": "Todoroki",
+                "given": "Shoto"
+            }
+        ],
+        "citation-key": "todoroki2022dataset",
+        "issued": {
+            "date-parts": [
+                [
+                    "2022"
+                ]
+            ]
+        },
+        "title": "QuirkStats: a dataset of heroic attributes",
+        "type": "document"
+    },
+    {
+        "id": "uzumaki2023chakra",
+        "author": [
+            {
+                "family": "Doe",
+                "given": "John"
+            },
+            {
+                "family": "Uzumaki",
+                "given": "Naruto"
+            }
+        ],
+        "citation-key": "uzumaki2023chakra",
+        "container-title": "Konoha Medical Bulletin",
+        "issue": "1",
+        "issued": {
+            "date-parts": [
+                [
+                    "2023"
+                ]
+            ]
+        },
+        "page": "50–63",
+        "title": "Chakra networks and neural pathways",
+        "type": "article-journal",
+        "volume": "15"
+    },
+    {
+        "id": "yagami2019digitalworld",
+        "author": [
+            {
+                "family": "Doe",
+                "given": "John"
+            },
+            {
+                "family": "Yagami",
+                "given": "Taichi"
+            }
+        ],
+        "citation-key": "yagami2019digitalworld",
+        "container-title": "Proceedings of the 10th international conference on digi-creature systems",
+        "event-place": "Odaiba, Japan",
+        "issued": {
+            "date-parts": [
+                [
+                    "2019"
+                ]
+            ]
+        },
+        "page": "45–56",
+        "publisher-place": "Odaiba, Japan",
+        "title": "Network resilience in the digital world",
+        "type": "paper-conference"
+    },
+    {
+        "id": "yagami2020kira",
+        "author": [
+            {
+                "family": "Doe",
+                "given": "John"
+            },
+            {
+                "family": "Yagami",
+                "given": "Light"
+            }
+        ],
+        "citation-key": "yagami2020kira",
+        "container-title": "Ethics in artificial intelligence symposium",
+        "event-place": "Tokyo University",
+        "issued": {
+            "date-parts": [
+                [
+                    "2020"
+                ]
+            ]
+        },
+        "page": "100-110",
+        "publisher-place": "Tokyo University",
+        "title": "Ethical frameworks for AI decision making: a kira case study",
+        "type": "paper-conference"
+    }
+]

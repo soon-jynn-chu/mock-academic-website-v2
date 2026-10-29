@@ -1,0 +1,122 @@
+[
+    {
+        "organization": "Aqua's Divine Party",
+        "role": "Leader",
+        "description": "Led a group of adventurers, including Aqua, Megumin, and Darkness, through numerous dangerous quests despite their incompetence, using strategy and wit.",
+        "yearsActive": [
+            "Jan 2020",
+            "Present"
+        ],
+        "highlights": [
+            "Defeated Devil King General",
+            "Saved the Kingdom from annihilation using Aqua's divine powers and Megumin's explosive magic."
+        ],
+        "lastActiveYear": 2024,
+        "lastActiveMonth": 6
+    },
+    {
+        "organization": "The Phantom Troupe",
+        "role": "Leader",
+        "description": "Guided a dangerous group of thieves and assassins through the most high-stakes missions, often challenging moral boundaries but achieving their goals with extreme efficiency.",
+        "yearsActive": [
+            "Jun 2018",
+            "Present"
+        ],
+        "highlights": [
+            "Stole the Scarlet Eyes",
+            "Led the Troupe to victory in the Heavens Arena against rival factions."
+        ],
+        "lastActiveYear": 2024,
+        "lastActiveMonth": 5
+    },
+    {
+        "organization": "Yor Forger's Spy Family",
+        "role": "Leader",
+        "description": "Despite being part of a fake family, took charge of spy missions while keeping her family's secret intact. Utilized strength, secrecy, and charm to protect her 'family'.",
+        "yearsActive": [
+            "Apr 2022",
+            "Present"
+        ],
+        "highlights": [
+            "Successfully infiltrated hostile organizations",
+            "Prevented international diplomatic disasters while maintaining family harmony."
+        ],
+        "lastActiveYear": 2024,
+        "lastActiveMonth": 4
+    },
+    {
+        "organization": "The Akatsuki",
+        "role": "Leader",
+        "description": "Led an elite group of rogue ninjas aiming to control the world through the power of the tailed beasts. Despite their differing agendas, successfully united them under a single cause.",
+        "yearsActive": [
+            "Mar 2010",
+            "Dec 2017"
+        ],
+        "highlights": [
+            "Captured 8 of the 9 Tailed Beasts",
+            "Defeated multiple Kage-level ninjas in battle."
+        ],
+        "lastActiveYear": 2017,
+        "lastActiveMonth": 12
+    },
+    {
+        "organization": "Rising of the Shield Hero",
+        "role": "Leader",
+        "description": "Guided a group of outcasts, including Filo and Raphtalia, in battles against waves of monsters while clearing his name from false accusations and rising as the true hero.",
+        "yearsActive": [
+            "Jan 2019",
+            "Present"
+        ],
+        "highlights": [
+            "Defeated the Waves of Destruction",
+            "Cleared his name from false allegations, earning the respect of the kingdom."
+        ],
+        "lastActiveYear": 2024,
+        "lastActiveMonth": 6
+    },
+    {
+        "organization": "Tokyo Manji Gang",
+        "role": "Leader",
+        "description": "Led the gang through numerous conflicts and rivalries, shaping the group into one of the most influential in Tokyo despite constant challenges from rival factions.",
+        "yearsActive": [
+            "Mar 2021",
+            "Present"
+        ],
+        "highlights": [
+            "Led the gang to control over Shibuya's streets",
+            "Prevented several major gang wars through strategy and leadership."
+        ],
+        "lastActiveYear": 2024,
+        "lastActiveMonth": 6
+    },
+    {
+        "organization": "The Seven Deadly Sins",
+        "role": "Leader",
+        "description": "Led a group of knights known as the 'Seven Deadly Sins' to fight for justice and defeat the forces of evil, despite being branded as criminals.",
+        "yearsActive": [
+            "Oct 2017",
+            "Present"
+        ],
+        "highlights": [
+            "Defeated the Demon King",
+            "Restored peace to the kingdom and resolved conflicts with former allies."
+        ],
+        "lastActiveYear": 2024,
+        "lastActiveMonth": 5
+    },
+    {
+        "organization": "The Vanguard",
+        "role": "Leader",
+        "description": "Guided a group of outcasts from the world of *Attack on Titan*, leading them to uncover hidden truths while fighting against both Titans and human oppressors.",
+        "yearsActive": [
+            "Jul 2016",
+            "Present"
+        ],
+        "highlights": [
+            "Revealed the truth behind the Walls",
+            "Led successful operations against the Marleyan Empire."
+        ],
+        "lastActiveYear": 2024,
+        "lastActiveMonth": 5
+    }
+]
